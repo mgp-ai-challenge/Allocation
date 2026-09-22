@@ -1,4 +1,4 @@
 # Allocation
-Allocation cost
+Allocation cost.
 
 
